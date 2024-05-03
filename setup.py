@@ -14,7 +14,7 @@ setuptools.setup(
     version="5.0.4",
     author="Sajid Shaikh",
     author_email="shaikhsajid3732@gmail.com",
-    description="Python package to scrap facebook's pages front end with no limitations",
+    description="Python Package to scrape Public Facebook Group's and Page's data that is available publicly",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
