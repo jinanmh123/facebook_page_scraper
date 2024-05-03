@@ -4,7 +4,10 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://opensource.org/licenses/MIT) [![Python >=3.6.9](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 <p> No need of API key, No limitation on number of requests. Import the library and <b> Just Do It !<b> </p>
-
+  
+> [!IMPORTANT]
+> This script uses `webdriver-manager-4.0.1`, however, when using `pip install facebook-page-scraper`, it will by default install `webdriver-manager-3.2.2`
+> And it may uninstall newer versions of `webdriver-manager`. Therefore, after installing with pip, you have to manually install `webdriver-manager-4.0.1` or newer versions
 <!--TABLE of contents-->
 <h2> Table of Contents </h2>
 <details open="open">
